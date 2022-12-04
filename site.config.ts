@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Toby's Notes",
+  name: "Toby Qin's Notes",
   domain: 'notes.tobyqin.cn',
   author: 'Toby Qin',
 
   // open graph metadata (optional)
-  description: "Toby's Notion Blog",
+  description: "Toby Qin's Notion Blog",
 
   // social usernames (optional)
   // twitter: '',
